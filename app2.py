@@ -5,7 +5,7 @@ from PyPDF2 import PdfReader
 # Configuration
 MISTRAL_API_URL = "https://api.mistral.ai/v1/chat/completions"
 
-MISTRAL_API_KEY = "9v7wzpvpznwzQGgZyLuhEzg1UjBtEJ37"  # Replace with your Mistral API key
+MISTRAL_API_KEY =   # Replace with your Mistral API key
 
 def extract_text_from_pdf(pdf_path):
     """
